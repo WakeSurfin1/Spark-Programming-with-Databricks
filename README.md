@@ -6,3 +6,5 @@ The below demonstrates that John Coleman has passed with the Databricks Academy 
 ![Certificate Image](https://github.com/WakeSurfin1/Spark-Programming-with-Databricks/raw/main/DbxAcademy_certificate.jpg)
 
 [Visit Databricks.com](https://www.databricks.com/)
+
+[Sign up for Databricks community edition](https://docs.databricks.com/getting-started/community-edition.html)
