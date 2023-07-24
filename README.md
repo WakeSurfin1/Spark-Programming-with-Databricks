@@ -3,7 +3,7 @@ Databricks source code and certificate of completion
 
 This repo contains the source code I created when taking the Databricks Academy "Spark Programming with Databricks" course.
 
-The below demonstrates that I have passed the Databricks Academy "Spark Programming with Databricks" exam.
+The below demonstrates that I have passed the Databricks Academy "Spark Programming with Databricks" exam. 
 
 ![Certificate Image](https://github.com/WakeSurfin1/Spark-Programming-with-Databricks/raw/main/DbxAcademy_certificate.jpg)
 
